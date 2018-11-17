@@ -1,0 +1,23 @@
+﻿Source.obj : error LNK2019: unresolved external symbol _cvCreateImage referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvCreateMat referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvSplit referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvInRangeS referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvCreateMemStorage referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvReleaseMemStorage referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvGetSeqElem referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvCircle referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvOpenFileStorage referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvSave referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvLoad referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvSmooth referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvCvtColor referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvHoughCircles referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvNamedWindow referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvShowImage referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvDestroyWindow referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvCreateTrackbar referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvWaitKey referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvCreateCameraCapture referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvQueryFrame referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _cvReleaseCapture referenced in function _main
+E:\Documents\Visual Studio 2013\_OpenCV\test\Debug\test.exe : fatal error LNK1120: 22 unresolved externals
